@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sketch-pm/skpm-client.git"
+    "url": "git+https://github.com/skpm/skpm-client.git"
   },
   "keywords": [
     "sketch",
@@ -19,9 +19,9 @@
   "author": "Mathieu Dutour <mathieu@dutour.me> (http://mathieu.dutour.me/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sketch-pm/skpm-client/issues"
+    "url": "https://github.com/skpm/skpm-client/issues"
   },
-  "homepage": "https://github.com/sketch-pm/skpm-client#readme",
+  "homepage": "https://github.com/skpm/skpm-client#readme",
   "dependencies": {
     "request": "2.79.0"
   }
